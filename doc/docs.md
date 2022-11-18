@@ -3,65 +3,36 @@
 [TOC]
 
 ## Requirements
-
 ### Statement of User Requirements
+### Tooling - Tools using Html/css/bootstrap
 
-### Tooling
 
 ## Plan
 
+
 ## Design
-
 ### Wireframes/Storyboards
+### colour schemes/Typography/Navigation
+### Alternative desgin
+### Design justification <!-- why picked design -->
+### Sources <!-- where images coming from/url -->
+### Test Plan <!-- what testing intend to do and how carry it out -->
 
-### Colour Schemes
-
-### Typography
-
-### Navigation
-
-### Alternative Design
-
-### Design Justification
-
-### Sources
-
-### Test Plan
 
 ## Implementation
+### Change Log  <!-- Justification of design changes -->
 
-### Change Log
-
-### Justification of Design Changes
 
 ## Test
-
-### Validation Reports
-
-### Test Results
-
-#### Functionality
-
-#### Performance
-
-### Rectification of Errors
-
-### Outstanding Issues
-
-### User Feedback
-
-+ verbatim
-+ sourced
-= x2
+### Validation Reports <!-- Not specifically needed but good to have -->
+### Test Results <!-- Rectification of errors/Unfixed errors -->
+### Test functionality/performance
+### User Feedback <!-- Exactly what they said/who said it * 2 -->
 
 
 ## Review
-
 ### Response to Feedback
-
 ### Evaluation
 
-## References
 
-
-
+## Refrences <!-- could be empty/even if empty leave it in -->
