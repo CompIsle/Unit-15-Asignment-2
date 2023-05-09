@@ -33,9 +33,11 @@
     text-align: center;
     flex-grow: 1}
 
-.ABdiv3 {background-color: red;
+.ABdiv3 {
+    background-color: red;
     text-align: center;
     flex-grow: 1;
+}
 
 .ABp2 {font-family:sans-serif;
     text-align: center;
@@ -44,9 +46,14 @@
     font-size: 40px;
     border: 5px black solid;
     margin-left: 550px;
-    position: relative;}
+    float: right;
+}
 
-.ABimg1 {float: left;padding: 10px;position: relative;}
+.ABimg1 {
+    padding-right: 10px;
+    overflow: auto;
+
+}
 
 .ABstaff1 {flex-grow: 1;}
 
@@ -57,24 +64,38 @@
 
 
 /*?*/
-.container18 div {min-width: 100%;
+.ScrollContainer div {min-width: 100%;
     display: flex;
     font-size: 10rem;
     color: white;
-    scroll-snap-align: center;}
+    scroll-snap-align: center;
+}
 
-.container18 {width: 100% ;
+.ScrollContainer {
+    width: 100%;
     height: 100%;
     background: white;
     display: flex;
     overflow-x: scroll;
-    scroll-snap-type: x proximity;}
+    scroll-snap-type: x proximity;
+    scroll-behavior: auto;
+}
 
-.pg18box1 {background-color: red;}
-.pg18box2 {background-color: blue;}
-.pg18box3 {background-color: green;}
-.pg18box4 {background-color: purple;}
-.pg18box5 {background-color: yellow;}
+.OurStaffBox1 {
+    background-color: red;
+}
+.OurStaffBox2 {
+    background-color: blue;
+}
+.OurStaffBox3 {
+    background-color: green;
+}
+.OurStaffBox4 {
+    background-color: purple;
+}
+.OurStaffBox5 {
+    background-color: yellow;
+}
 
 .ABimgZ {float: left;
 margin: 10px;}
@@ -133,6 +154,33 @@ border: 5px black solid;}
 
 
 
+.border {
+    border: 5px black solid;
+}
+
+
 /*Form?*/
 
 
+/*Scroll Bar style*/
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+    background: white;;
+    border-radius: 10px;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 10px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+    background: #555;  
+}
