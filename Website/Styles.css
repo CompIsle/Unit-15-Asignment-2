@@ -81,6 +81,7 @@
     overflow-x: scroll;
     scroll-snap-type: x proximity;
     object-fit: contain;
+    align-content: center
 }
 
 .OurStaffBox1 {
@@ -111,7 +112,7 @@
 
 .ABimgZ {
     float: left;
-    padding-right:30px
+    padding-right: 50px ;
 }
 
 /*Jobs Available*/
@@ -124,7 +125,9 @@ text-align: center;
 flex-grow: 1;
 border: 5px black solid;}
 
-.ABstaffinfo1 {font-size: 0.2em;}
+.ABstaffinfo1 {
+    font-size: 0.2em;
+}
 
 /*.AJH11 {border: 5px black solid;
     font-family:sans-serif;
