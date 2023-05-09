@@ -1,4 +1,3 @@
 # Problems
 
-On Our staff when the screen is made the smallest 
-possible text abdout the staff cant be seen anymore
+The Our staff pictures dont have padding in thier boxes except staf member two
