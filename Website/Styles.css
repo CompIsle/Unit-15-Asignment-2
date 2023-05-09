@@ -65,7 +65,7 @@
 
 /*?*/
 .ScrollContainer div {min-width: 100%;
-    display: flex;
+    /*display: flex;*/
     font-size: 10rem;
     color: white;
     scroll-snap-align: center;
@@ -78,14 +78,16 @@
     display: flex;
     overflow-x: scroll;
     scroll-snap-type: x proximity;
-    scroll-behavior: auto;
+    object-fit: contain;
 }
 
 .OurStaffBox1 {
     background-color: red;
+    object-fit: contain;
 }
 .OurStaffBox2 {
     background-color: blue;
+    padding: 10px
 }
 .OurStaffBox3 {
     background-color: green;
@@ -97,8 +99,10 @@
     background-color: yellow;
 }
 
-.ABimgZ {float: left;
-margin: 10px;}
+.ABimgZ {
+    float: left;
+    padding-right:30px
+}
 
 /*Jobs Available*/
 .AJP2 {font-family:sans-serif;
