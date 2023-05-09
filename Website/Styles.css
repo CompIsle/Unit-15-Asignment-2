@@ -83,7 +83,7 @@
 
 .OurStaffBox1 {
     background-color: red;
-    object-fit: contain;
+    padding: 10px
 }
 .OurStaffBox2 {
     background-color: blue;
@@ -91,12 +91,15 @@
 }
 .OurStaffBox3 {
     background-color: green;
+    padding: 10px
 }
 .OurStaffBox4 {
     background-color: purple;
+    padding: 10px
 }
 .OurStaffBox5 {
     background-color: yellow;
+    padding: 10px
 }
 
 .ABimgZ {
