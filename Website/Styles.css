@@ -15,17 +15,24 @@
 
 .ABN a:hover {
     background: red;}
-    
-.ABdiv1 {background-color: red;
-    text-align: center;
-    flex-grow: 1;
-    border: 5px black solid;
-    margin-top: 10px;}
 
-.ABp1 {font-family:sans-serif;
+.ABdiv1 {
+    background-color: red;
     text-align: center;
     flex-grow: 1;
-    border: 5px black solid;}
+    border-top: 5px black solid;
+    border-bottom: 5px black solid;
+    /*margin-top: 10px;*/
+}
+
+.ABp1 {
+    font-family: sans-serif;
+    text-align: center;
+    flex-grow: 1;
+    border-top: 5px black solid;
+    border-bottom: 5px black solid;
+    /*border: 5px black solid;*/
+}
 
 .ABsub1 {font-family:sans-serif;
     text-align: center;
@@ -48,7 +55,6 @@
     font-size: 40px;
     border: 5px black solid;
     margin-left: 550px;
-    float: right;
 }
 
 .ABimg1 {
@@ -193,7 +199,7 @@ border: 5px black solid;}
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-    background: black;
+    background: grey;
     border-radius: 10px;
 }
 
