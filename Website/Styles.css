@@ -148,14 +148,26 @@ border: 5px black solid;}
     border: 5px black solid;
     margin-top: 10px;}
 
-.AJp1 {font-family:sans-serif;
+.AJp1 {
+    font-family: sans-serif;
     text-align: center;
     flex-grow: 1;
-    border: 5px black solid;}
+    border: 5px black solid;
+    display: inline;
+}
 
 .AJsub1 {font-family:sans-serif;
     text-align: center;
     flex-grow: 1;}
+
+.Avliablejob {
+    display: inline; 
+}
+
+
+
+
+
 
 /*.AJp2 {font-family:sans-serif;
     text-align: center;
@@ -163,12 +175,13 @@ border: 5px black solid;}
     list-style: none;
     font-size: 40px;}*/
 /*Contanct*/
-
-.COdiv1 {background-color: red;
+.COdiv1 {
+    background-color: red;
     text-align: center;
     flex-grow: 1;
     border: 5px black solid;
-    margin-top: 10px;}
+    margin-top: 10px;
+}
 
 .COp1 {font-family:sans-serif;
     text-align: center;
