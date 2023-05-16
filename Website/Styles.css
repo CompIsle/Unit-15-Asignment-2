@@ -66,6 +66,14 @@
     margin-left: 550px;
 }
 
+.AboutUsText1 {
+    background-image: url('BackgroundImage/BackGroundImage4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment:fixed;
+}
+
 .ABimg1 {
     padding-right: 10px;
     overflow: auto;
@@ -238,7 +246,8 @@ border: 5px black solid;}
 
 /*Avliable job*/
 
-.Avliablejob{}
+.Avliablejob {
+}
 
 
 /*Application form*/
