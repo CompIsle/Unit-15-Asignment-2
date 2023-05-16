@@ -277,3 +277,13 @@ padding: 20px;
 .testimonial p {
     margin: 0;
 }
+
+/*Awards*/
+
+.award {
+    border-radius: 100px;
+    border: 5px black solid;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
