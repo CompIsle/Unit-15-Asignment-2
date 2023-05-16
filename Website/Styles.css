@@ -271,6 +271,9 @@ input[type=submit]:hover {
 border-radius: 5px;
 background-color: #f2f2f2;
 padding: 20px;
+border: 5px black solid;
+margin-top:10px;
+margin-bottom:10px;
 }
 
 
@@ -342,10 +345,6 @@ padding: 20px;
 .link-list li {
     margin-right: 10px;
     margin-bottom: 5px;
-}
-
-.link-list li:last-child {
-    margin-right: 0;
 }
 
 .link-list li a {
