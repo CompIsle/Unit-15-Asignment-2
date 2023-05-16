@@ -150,8 +150,9 @@ border: 5px black solid;}
     font-family: sans-serif;
     text-align: center;
     flex-grow: 1;
-    border: 5px black solid;
+    font-size: 1.5em;
     display: inline;
+    font-weight:bold
 }
 
 .AJsub1 {font-family:sans-serif;
