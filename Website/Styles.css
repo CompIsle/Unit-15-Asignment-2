@@ -160,7 +160,9 @@ border: 5px black solid;}
     flex-grow: 1;}
 
 .Avliablejob {
-    display: inline; 
+    display: inline;
+    font-family: sans-serif;
+    flex-grow: 1;
 }
 
 
