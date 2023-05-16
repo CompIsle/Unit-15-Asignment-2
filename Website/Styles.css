@@ -1,55 +1,38 @@
-/*About us*/
-.ABN {display: flex;
+/*Navigation Bar*/
+.NavigationBar {
+    display: flex;
     flex-flow: row wrap;
     justify-content: space-around;
     list-style: none;
-    margin: 0; 
-    background: black;}
-
-.ABN a {display: block;
+    margin: 0;
+    background: black;
+}
+.NavigationBar a {
+    display: block;
     flex-grow: 1;
     padding: 25px;
     color: white;
     justify-content: space-around;
-    text-align: center;}
+    text-align: center;
+}
+.NavigationBar a:hover {
+    background: red;
+}
 
-.ABN a:hover {
-    background: red;}
-
-.ABdiv1 {
+/*About us*/
+.AboutUsHeading {
     background-color: red;
     text-align: center;
     flex-grow: 1;
     margin-top: 10px;
     border: 5px black solid;
-
 }
-
-
-.ABp1 {
+.AboutUsP1 {
     font-family: sans-serif;
     flex-grow: 1;
     font-size: 20px
 }
-
-.section-subheading {
-    font-size: 16px;
-    color: #888;
-    margin-bottom: 30px;
-}
-
-.ABsub1 {font-family:sans-serif;
-    text-align: center;
-    flex-grow: 1;}
-
-.ABdiv2 {
-    background-color: red;
-    text-align: center;
-    flex-grow: 1;
-    font-family: sans-serif;
-}
-
-.ABdiv3 {
+.AboutUsSubHeading {
     background-color: red;
     text-align: center;
     flex-grow: 1;
@@ -58,32 +41,10 @@
     font-family: sans-serif;
 }
 
-.ABp2 {font-family:sans-serif;
-    text-align: center;
-    flex-grow: 1;
-    list-style: none;
-    font-size: 40px;
-    border: 5px black solid;
-    margin-left: 550px;
-}
-
-/*.AboutUsText1*/
-
-.ABimg1 {
-    padding-right: 10px;
-    overflow: auto;
-
-}
-
-.ABstaff1 {flex-grow: 1;}
-
-.ABdiv4 {background-color: red;
-    text-align: center;
-    flex-grow: 1;
-    margin-top: 200px;;}
 
 
-/*?*/
+
+/*OurStaff*/
 .ScrollContainer div {
     min-width: 100%;
     font-size: 10em;
@@ -136,14 +97,12 @@
 }
 
 /*Jobs Available*/
-
 .AvailableJobHeader2 {
     background-color: red;
     text-align: center;
     flex-grow: 1;
     border: 5px black solid;
 }
-
 .AvailableJobdiv1 {
     background-color: red;
     text-align: center;

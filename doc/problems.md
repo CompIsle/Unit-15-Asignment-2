@@ -20,3 +20,5 @@ Add text and images to contanct us page
 sort out inconsitency betwenn text on abpout us page and jobs page
 
 text style
+
+scroll bar color change
