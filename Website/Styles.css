@@ -131,9 +131,13 @@
     flex-grow: 1;
 }
 .AvailabeJobText {
-    display: inline;
     font-family: sans-serif;
     flex-grow: 1;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #ddd;
 }
 
 /*Contanct*/
@@ -274,7 +278,14 @@ margin-bottom:10px;
     background-color: #333;
     color: #fff;
 }
-
+.LinkText {
+    margin-top:20px;
+    background-color: white;
+    border-radius: 5px;
+    padding: 20px;
+    margin-bottom: 20px;
+    border: 2px solid #ddd;
+}
 
 /*Backgrounds*/
 .Body {
