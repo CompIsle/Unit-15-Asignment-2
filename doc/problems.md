@@ -13,8 +13,6 @@ Desing problme text on about us oage and outr staff size look wrong
 
 # Things to do
 
-Style links on Available jobs page
-
 Add text and images to contanct us page
 
 sort out inconsitency betwenn text on abpout us page and jobs page

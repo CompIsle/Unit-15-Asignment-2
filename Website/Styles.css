@@ -68,13 +68,6 @@
 }
 
 /*.AboutUsText1*/
-.Body1 {
-    background-image: url('BackgroundImage/BackGroundImage4.jpg');
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    background-attachment: fixed;
-}
 
 .ABimg1 {
     padding-right: 10px;
@@ -373,3 +366,28 @@ margin-bottom:10px;
 }
 
 
+/*Backgrounds*/
+
+.Body1 {
+    background-image: url('BackgroundImage/BackGroundImage4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.Body2 {
+    background-image: url('BackgroundImage/BackGroundImage4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.Body3 {
+    background-image: url('BackgroundImage/BackGroundImage4.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+}
