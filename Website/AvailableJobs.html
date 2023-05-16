@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
 </head>
-<body>
+<body style="background-color: #f2f2f2;">
     
     <ul class="ABN">
         <li><a href="index.html">Home</a></li>
@@ -17,29 +17,49 @@
     </ul>
 
     <div class="AJB1">
-    <div class="AJdiv1"><h1>Available Jobs</h1>
-    <p class="AJsub1">This page will tell you about our busienss any any opportunties to join us at out great company</p>
-    </div>
+        <div class="AJdiv1">
+            <h1>Available Jobs</h1>
+            <p class="AJsub1">This page will tell you about our busienss any any opportunties to join us at out great company</p>
+        </div>
 
-    <div class="Avliablejob">
-        <p class="AJp1">Web devlopment junior</p>
-        <ul>
-            <li>Job specfications</li>
-            <li>Required Qualifications</li>
-            <li>Experience required</li>
-        </ul>
-    </div>
+        <div class="Avliablejob">
+            <p class="AJp1">Web devlopment junior</p>
+            <ul>
+                <li>Job specfications</li>
+                <li>Required Qualifications</li>
+                <li>Experience required</li>
+            </ul>
+        </div>
 
-        <div class="AJH21"><h2>Random</h2></div>
-        <p class="AJp1">
-            profiles of existing trainee web developers
+        <div class="AJH21"><h2>Aplication form</h2></div>
+        <div class="ApplicationForm">
+            <form action="/action_page.php">
+                <label for="fname">First Name</label>
+                <input type="text" id="fname" name="firstname" placeholder="Your name..">
 
-            job specifications and required qualifications
+                <label for="lname">Last Name</label>
+                <input type="text" id="lname" name="lastname" placeholder="Your last name..">
 
-            an on-line application form
+                <label for="country">Country</label>
+                <select id="country" name="country">
+                    <option value="United Kingdom">United Kingdom</option>
+                    <option value="canada">Canada</option>
+                    <option value="usa">USA</option>
+                </select>
 
-            links to web development courses
-        </p>
+                <label for="Jon">Prefered Job</label>
+                <select id="Job" name="country">
+                    <option value="junior web devloper">Junior Web Devloper</option>
+                </select>
+
+                <label for="Pnumber">Phone Number</label>
+                <input type="text" id="Pnumber" name="PhoneNumber" placeholder="Your phone number..">
+
+
+                <input type="submit" value="Submit">
+            </form>
+        </div>
+        <div class="AJH21"><h2>Links</h2></div>
 
     </div>
 </body>
