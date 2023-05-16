@@ -276,7 +276,7 @@ margin-bottom:10px;
     border-radius: 3px;
 }
 .link-list li a:hover {
-    background-color: #333;
+    background-color: #333; 
     color: #fff;
 }
 .LinkText {
