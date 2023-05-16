@@ -29,7 +29,6 @@
     font-family: sans-serif;
     text-align: center;
     flex-grow: 1;
-    border: 5px black solid;
 }
 
 .ABsub1 {font-family:sans-serif;
@@ -44,6 +43,7 @@
     background-color: red;
     text-align: center;
     flex-grow: 1;
+    border: 5px black solid;
 }
 
 .ABp2 {font-family:sans-serif;
