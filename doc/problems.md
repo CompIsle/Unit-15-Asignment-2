@@ -11,6 +11,8 @@ requirments say.
 
 Desing problme text on about us oage and outr staff size look wrong
 
+links cant be seen well on avlaible jobs page becuase of background
+
 # Things to do
 
 Add text and images to contanct us page
