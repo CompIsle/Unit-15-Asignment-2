@@ -29,6 +29,7 @@
     font-family: sans-serif;
     margin-top: 10px;
     margin-bottom: 10px;
+    font-size: 20px;
 }
 .AboutUsP1 {
     font-family: sans-serif;
@@ -44,6 +45,7 @@
     font-family: sans-serif;
     margin-top: 20px;
     margin-bottom: 20px;
+    font-size: 20px;
 }
 .AboutUsText1 {
     background-color: white;
@@ -114,6 +116,7 @@
     text-align: center;
     flex-grow: 1;
     border: 5px black solid;
+    font-size:20px;
 }
 .AvailableJobdiv1 {
     background-color: red;
@@ -148,7 +151,6 @@
     flex-grow: 1;
     font-size: 20px;
     display: inline;
-    font-weight: bold;
 }
 .AvailableJobsub1 {
     font-family: sans-serif;
