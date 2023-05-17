@@ -91,7 +91,7 @@
     border-radius: 5px;
 }
 .OurStaffBox1 {
-    background-color: red;
+    background-color: white;
     padding: 10px;
     border: 5px black solid;
     border-radius: 5px;
@@ -118,6 +118,7 @@
 }
 .OurStaffText {
     font-size: 0.2em;
+    color:black;
 }
 .OurStaffimg {
     float: left;
@@ -227,12 +228,13 @@
 }
 .ContactUsAddress {
     background-color: white;
-    height: 193px;
+    min-height: 193px;
     text-align: center;
     border: 2px solid #ddd;
     border-radius: 5px;
     font-size:20px;
     flex:1;
+    overflow:auto;
 }
 .ContactUsAddressText {
     margin:50px
