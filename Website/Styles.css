@@ -6,6 +6,7 @@
     list-style: none;
     margin: 0;
     background: black;
+    margin-bottom:10px
 }
 .NavigationBar a {
     display: block;
@@ -29,6 +30,7 @@
     font-family: sans-serif;
     margin-top: 10px;
     margin-bottom: 10px;
+    border-radius: 5px;
     font-size: 20px;
 }
 .AboutUsP1 {
@@ -46,6 +48,15 @@
     margin-top: 20px;
     margin-bottom: 20px;
     font-size: 20px;
+    border-radius: 5px;
+}
+.AboutUs1 {
+    font-family: sans-serif;
+    text-align: center;
+    flex-grow: 1;
+    font-size: 25px;
+    font-weight: bold;
+    text-align:center
 }
 .AboutUsText1 {
     background-color: white;
@@ -81,6 +92,7 @@
     background-color: red;
     padding: 10px;
     border: 5px black solid;
+    border-radius: 5px;
 }
 .OurStaffBox2 {
     background-color: blue;
@@ -116,7 +128,8 @@
     text-align: center;
     flex-grow: 1;
     border: 5px black solid;
-    font-size:20px;
+    font-size: 20px;
+    border-radius: 5px;
 }
 .AvailableJobdiv1 {
     background-color: red;
@@ -126,6 +139,7 @@
     margin-top: 10px;
     font-family: sans-serif;
     font-size: 20px;
+    border-radius: 5px;
 }
 .AvailableJobs {
     font-family: sans-serif;
@@ -151,6 +165,7 @@
     flex-grow: 1;
     font-size: 20px;
     display: inline;
+    font-weight:bold;
 }
 .AvailableJobsub1 {
     font-family: sans-serif;
@@ -159,20 +174,42 @@
 }
 .AvailabeJobText {
     border: 5px solid #ddd;
+    border-radius: 5px;
 }
 
 /*Contanct*/
-.ContactUSdiv1 {
+.ContactUsHeader {
     background-color: red;
+    border: 5px solid black;
     text-align: center;
-    flex-grow: 1;
-    border: 5px black solid;
+    margin-bottom: 10px;
     margin-top: 10px;
+    border-radius: 5px;
 }
-.ContactUsP1 {font-family:sans-serif;
+.contact-info {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+    gap: 20px;
+    text-align:center;
+}
+.contact-info1 {
+    border: 2px solid #ddd;
+}
+.contact-info2 {
+    border: 2px solid #ddd;
+}
+.contact-info div {
+    background-color: white;
+    padding: 20px;
+    border-radius: 5px;
+}
+.ContactUsAddress {
+    background-color: white;
+    height: 193px;
     text-align: center;
-    flex-grow: 1;
-    border: 5px black solid;}
+    border: 2px solid #ddd;
+    border-radius: 5px;
+}
 
 
 /*Scroll Bar style*/
@@ -317,4 +354,8 @@ margin-bottom:10px;
     background-size: cover;
     background-attachment: fixed;
     margin: 20px;
+    font-family: sans-serif;
 }
+
+
+/*add 5px border radius to text boxes*/

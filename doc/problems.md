@@ -9,8 +9,6 @@ audience is for people who have just completed
 courses so they wont have experience like the 
 requirments say.
 
-Desing problme text on about us oage and outr staff size look wrong
-
 links cant be seen well on avlaible jobs page becuase of background
 
 
