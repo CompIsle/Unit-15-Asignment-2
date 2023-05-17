@@ -11,9 +11,8 @@ requirments say.
 
 links cant be seen well on avlaible jobs page becuase of background
 
+problem vist our office section fails when screen to small
 
 # Things to do
-
-Add text and images to contanct us page
 
 scroll bar color change

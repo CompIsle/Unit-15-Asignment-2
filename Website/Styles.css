@@ -210,7 +210,13 @@
     text-align: center;
     border: 2px solid #ddd;
     border-radius: 5px;
+    font-size:20px;
+    flex:1;
 }
+.ContactUsAddressText {
+    margin:50px
+}
+
 
 
 /*Scroll Bar style*/
