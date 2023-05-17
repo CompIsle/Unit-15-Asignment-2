@@ -72,7 +72,7 @@
 
 /*OurStaff*/
 .ScrollContainer div {
-    min-width: 96%;
+    min-width: 96.7%;
     font-size: 10em;
     color: white;
     scroll-snap-align: center;
@@ -87,7 +87,8 @@
     scroll-snap-type: x proximity;
     object-fit: contain;
     align-content: center;
-    font-size:15px;
+    font-size: 15px;
+    border-radius: 5px;
 }
 .OurStaffBox1 {
     background-color: red;
@@ -121,6 +122,26 @@
 .OurStaffimg {
     float: left;
     padding-right: 50px;
+}
+
+/*Scroll Bar style*/
+/* width */
+::-webkit-scrollbar {
+    width: 10px;
+}
+/* Track */
+::-webkit-scrollbar-track {
+    background: white;
+    border-radius: 10px;
+}
+/* Handle */
+::-webkit-scrollbar-thumb {
+    background: black;
+    border-radius: 10px;
+}
+/* Handle on hover */
+    ::-webkit-scrollbar-thumb:hover {
+    background: #555;
 }
 
 /*Jobs Available*/
@@ -215,28 +236,6 @@
 }
 .ContactUsAddressText {
     margin:50px
-}
-
-
-
-/*Scroll Bar style*/
-/* width */
-::-webkit-scrollbar {
-    width: 10px;
-}
-/* Track */
-::-webkit-scrollbar-track {
-    background: white;;
-    border-radius: 10px;
-}
-/* Handle */
-::-webkit-scrollbar-thumb {
-    background: grey;
-    border-radius: 10px;
-}
-/* Handle on hover */
-::-webkit-scrollbar-thumb:hover {
-    background: #555;  
 }
 
 /*Application form*/
