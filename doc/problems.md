@@ -11,3 +11,5 @@ requirments say.
 
 
 # Things to do
+
+border web devlopment junior
