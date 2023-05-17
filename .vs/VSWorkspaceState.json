@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\doc",
     "\\Website",
-    "\\Website\\AwardImages"
+    "\\Website\\BackgroundImage"
   ],
-  "SelectedNode": "\\Website\\AwardImages",
+  "SelectedNode": "\\doc\\problems.md",
   "PreviewInSolutionExplorer": false
 }
