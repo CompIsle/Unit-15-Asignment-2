@@ -121,21 +121,10 @@
     flex-grow: 1;
     border: 5px black solid;
     margin-top: 10px;
-}
-.AvailableJobP1 {
     font-family: sans-serif;
-    text-align: center;
-    flex-grow: 1;
-    font-size: 1.5em;
-    display: inline;
-    font-weight: bold
+    font-size: 20px;
 }
-.AvailableJobsub1 {
-    font-family: sans-serif;
-    text-align: center;
-    flex-grow: 1;
-}
-.AvailabeJobText {
+.AvailableJobs {
     font-family: sans-serif;
     flex-grow: 1;
     background-color: white;
@@ -143,6 +132,31 @@
     padding: 20px;
     margin-bottom: 20px;
     border: 2px solid #ddd;
+    font-family: sans-serif;
+    font-size: 20px;
+}
+.AvailableJobP1 {
+    font-family: sans-serif;
+    text-align: center;
+    flex-grow: 1;
+    display: inline;
+    font-size: 20px;
+}
+.AvailableJobsub1 {
+    font-family: sans-serif;
+    text-align: center;
+    flex-grow: 1;
+    font-size: 20px;
+    display: inline;
+    font-weight: bold;
+}
+.AvailableJobsub1 {
+    font-family: sans-serif;
+    text-align: center;
+    flex-grow: 1;
+}
+.AvailabeJobText {
+    border: 5px solid #ddd;
 }
 
 /*Contanct*/
