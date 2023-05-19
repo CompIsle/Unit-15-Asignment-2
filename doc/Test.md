@@ -68,7 +68,9 @@ Test 1:
 Test 2:\
 Initial Outcome: Failed\
 Description: The trainee web developer profiles do not include the required information in the brief. My profiles are for existing staff which is not what the breif said it wanted profiels of junior web devlopers\
-ScreenShot: 
+ScreenShot:\
+![alt text](image url "ScreenShots\ScreenShotOfOurStaff1.png")
+../Images/AwardImages/AwardImage1.jpg"
 Final Outcome: Passed.\
 Description: I fixed this error and correted the profiles.
 
