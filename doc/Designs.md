@@ -6,7 +6,7 @@ In this Document it will Detail...
 ### Website Requirements:
 ### Company Profile:
 Provide a detailed profile of Hot Beans Web, including its history, mission statement, core values, and achievements.
-Include information about the company's culture, work environment, and employee benefits.
+Include information about the company's culture and work environment.
 Highlight any awards or recognitions received by the company.
 
 ### Trainee Web Developer Profiles:
@@ -25,11 +25,8 @@ Implement form validation to ensure that all required fields are filled out corr
 ### Links to Web Development Courses:
 Provide links to relevant web development courses, training programs, or certifications that would be beneficial for aspiring web developers.
 
-### Statement of User Requirements
-User requirments are...
 
-
-### Tooling - Tools using Html/css/bootstrap
+## Tooling - Tools using Html/css/bootstrap
 Tools used are...
 
 
