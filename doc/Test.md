@@ -53,9 +53,9 @@ Outcome: Passed.
 Description: I Checked the Compnay profile for Hot Beans Web and its passed this test becasue it accurately represents Hot Beans Web as a company.
 
 Test 2: 
-Initial Outcome: Failed.
-Description: During this test i found some grammitcal and spelling mistakes.
-Final Outcome: passed.
+Initial Outcome: Failed.\
+Description: During this test i found some grammitcal and spelling mistakes.\
+Final Outcome: passed.\
 Description: Fixed all the spellign and grammitcal erros found.
 
 Test 3: 
