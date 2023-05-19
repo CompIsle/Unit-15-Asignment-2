@@ -63,7 +63,7 @@ Outcome: Passed.\
 Description: This test was also passed and the profile is visually apealling and consitent with the rest of the website.
 
 ## Trainee Web Developer Profiles:
-Test 1: 
+Test 1:
 
 Test 2:\
 Initial Outcome: Failed\
