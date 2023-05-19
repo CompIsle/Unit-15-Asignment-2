@@ -6,49 +6,45 @@ Test Environment: Specify the test environment, including hardware, software, br
 ## Test Plan
  What testing is intended to be done:
 
-Verify the accuracy and completeness of the company profile, trainee web developer profiles, job specifications, and required qualifications.
-
-Validate the functionality and usability of the online application form.
-
-Ensure the proper functioning of links to web development courses.
-
-Evaluate the overall user experience for the target audience of aspiring web developers.
-
-## Test
-### Test of Company Profile:
+### Company Profile:
 Verify that the company profile accurately represents Hot Beans Web, including its history, achievements, and core values.
 Check for any grammatical or typographical errors in the company profile.
 Ensure the company profile is visually appealing and consistent with the website's design.
 
-### Test of Trainee Web Developer Profiles:
+### Trainee Web Developer Profiles:
 Validate the accuracy and completeness of the profiles of existing trainee web developers.
 Confirm that all required information, such as skills, experience, and projects, is included in the profiles.
 Ensure that the trainee web developer profiles are visually appealing and well-organized.
-Job Specifications and Required Qualifications:
+Job 
+
+### Specifications and Required Qualifications:
 
 Verify that the job specifications clearly outline the roles and responsibilities of a web developer at Hot Beans Web.
 Ensure that the required qualifications and skills for each job position are accurately stated.
 Check that the job specifications are easy to read and understand.
 
-### Test of Online Application Form:
+### Online Application Form:
 Validate the functionality of the online application form, ensuring that users can input their information correctly.
 Test form validation to ensure that all mandatory fields are properly validated.
 Verify that the submitted application form data is stored correctly and can be accessed by the company.
 
-### Test of Online Application Form:
+### Online Application Form:
 Click on each link to web development courses and verify that they lead to the correct external websites or resources.
 Ensure that the links are active and functional across different browsers and devices.
 Confirm that the web development courses are relevant and beneficial for aspiring web developers.
 
-### Test Results
+
+## Test Results
 Test Results...
 Rectification of errors/Unfixed errors...
 
-## Test Results of Company Profile:
+## Company Profile:
 
-## Test Results of Trainee Web Developer Profiles:
+## Trainee Web Developer Profiles:
 
-## Test Results of Online Application Form:
+### Specifications and Required Qualifications:
+
+## Online Application Form:
 
 ## Test Results of Online Application Form:
 
