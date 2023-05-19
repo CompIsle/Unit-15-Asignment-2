@@ -48,28 +48,28 @@ Test Results...
 Rectification of errors/Unfixed errors...
 
 ## Company Profile:
-Test 1:\ 
+Test 1: 
 Outcome: Passed.\
-Description: I Checked the Compnay profile for Hot Beans Web and its passed this test becasue it accurately represents Hot Beans Web as a company.\
+Description: I Checked the Compnay profile for Hot Beans Web and its passed this test becasue it accurately represents Hot Beans Web as a company.
 
 Test 2:\
 Initial Outcome: Failed.\
 Description: During this test i found some grammitcal and spelling mistakes.\
 Final Outcome: passed.\
-Description: Fixed all the spellign and grammitcal erros found.\
+Description: Fixed all the spellign and grammitcal erros found.
 
 Test 3: 
 Outcome: Passed.\
-Description: his test was also passed and the profile is visually apealling and consitent with the rest of the website.\
+Description: his test was also passed and the profile is visually apealling and consitent with the rest of the website.
 
 ## Trainee Web Developer Profiles:
 Test 1: 
 
-Test 2:\ 
+Test 2:
 Initial Outcome: Failed\
 Description: The trainee web developer profiles do not include the required education information.\
 Final Outcome: Passed.\
-Description: I fixed this error and correted the profiles.\
+Description: I fixed this error and correted the profiles.
 
 Test 3:  
 
