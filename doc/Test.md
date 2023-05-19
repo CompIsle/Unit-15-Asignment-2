@@ -60,14 +60,15 @@ Description: Fixed all the spellign and grammitcal erros found.
 
 Test 3:\
 Outcome: Passed.\
-Description: his test was also passed and the profile is visually apealling and consitent with the rest of the website.
+Description: This test was also passed and the profile is visually apealling and consitent with the rest of the website.
 
 ## Trainee Web Developer Profiles:
 Test 1: 
 
 Test 2:\
 Initial Outcome: Failed\
-Description: The trainee web developer profiles do not include the required education information.\
+Description: The trainee web developer profiles do not include the required information in the brief. My profiles are for existing staff which is not what the breif said it wanted profiels of junior web devlopers\
+ScreenShot: 
 Final Outcome: Passed.\
 Description: I fixed this error and correted the profiles.
 
