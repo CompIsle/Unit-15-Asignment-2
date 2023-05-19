@@ -7,20 +7,14 @@ Test Environment: Specify the test environment, including hardware, software, br
  What testing is intended to be done:
 
 ### Company Profile:
-#### Test 1
-Verify that the company profile accurately represents Hot Beans Web, including its history, achievements, and core values.
-#### Test 2
-Check for any grammatical or typographical errors in the company profile.
-#### Test 3
-Ensure the company profile is visually appealing and consistent with the website's design.
+Test 1: Verify that the company profile accurately represents Hot Beans Web, including its history, achievements, and core values.
+Test 2: Check for any grammatical or typographical errors in the company profile.
+Test 3: Ensure the company profile is visually appealing and consistent with the website's design.
 
 ### Trainee Web Developer Profiles:
-#### Test 1
-Validate the accuracy and completeness of the profiles of existing trainee web developers.
-#### Test 2
-Confirm that all required information, such as skills, experience, and projects, is included in the profiles.
-#### Test 3
-Ensure that the trainee web developer profiles are visually appealing and well-organized.
+Test 1: Validate the accuracy and completeness of the profiles of existing trainee web developers.
+Test 2: Confirm that all required information, such as skills, experience, and projects, is included in the profiles.
+Test 3: Ensure that the trainee web developer profiles are visually appealing and well-organized.
 Job 
 
 ### Specifications and Required Qualifications:
