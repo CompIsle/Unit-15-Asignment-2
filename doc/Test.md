@@ -3,7 +3,7 @@ The purpose of this test plan is to ensure the quality and functionality of the 
 The test plan covers testing activities for the profiles of the company, existing trainee web developers, job specifications, the online application form, and links to web development courses.
 Test Environment: Specify the test environment, including hardware, software, browsers, and devices.....
 
-##Test Plan
+## Test Plan
  What testing is intended to be done:
 Verify the accuracy and completeness of the company profile, trainee web developer profiles, job specifications, and required qualifications.
 Validate the functionality and usability of the online application form.
