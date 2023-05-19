@@ -53,3 +53,12 @@ Exactly what they said/who said it * 2...
 
 ## Response to Feedback
 Changes made due to feedback...
+
+
+
+
+<!--Test Types
+Functional Testing: Validate the functionality and accuracy of the website's features, such as the online application form and external links.
+Usability Testing: Evaluate the user experience, ease of navigation, and clarity of information.
+Compatibility Testing: Verify the compatibility of the website across different browsers and devices commonly used by the target audience.
+Content Testing: Review the accuracy, completeness, and readability of the website's content.-->
