@@ -18,7 +18,6 @@ Ensure that the trainee web developer profiles are visually appealing and well-o
 Job 
 
 ### Specifications and Required Qualifications:
-
 Verify that the job specifications clearly outline the roles and responsibilities of a web developer at Hot Beans Web.
 Ensure that the required qualifications and skills for each job position are accurately stated.
 Check that the job specifications are easy to read and understand.
@@ -28,7 +27,7 @@ Validate the functionality of the online application form, ensuring that users c
 Test form validation to ensure that all mandatory fields are properly validated.
 Verify that the submitted application form data is stored correctly and can be accessed by the company.
 
-### Online Application Form:
+### Links to Web Development Courses:
 Click on each link to web development courses and verify that they lead to the correct external websites or resources.
 Ensure that the links are active and functional across different browsers and devices.
 Confirm that the web development courses are relevant and beneficial for aspiring web developers.
@@ -42,15 +41,15 @@ Rectification of errors/Unfixed errors...
 
 ## Trainee Web Developer Profiles:
 
-### Specifications and Required Qualifications:
+## Specifications and Required Qualifications:
 
 ## Online Application Form:
 
-## Test Results of Online Application Form:
+## Links to Web Development Courses:
 
 
-### User Feedback
+## User Feedback
 Exactly what they said/who said it * 2...
 
-### Response to Feedback
+## Response to Feedback
 Changes made due to feedback...
