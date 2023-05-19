@@ -13,15 +13,19 @@ Test 3: Ensure the company profile is visually appealing and consistent with the
 
 ### Trainee Web Developer Profiles:
 Test 1: Validate the accuracy and completeness of the profiles of existing trainee web developers.
+
 Test 2: Confirm that all required information, such as skills, experience, and projects, is included in the profiles.
+
 Test 3: Ensure that the trainee web developer profiles are visually appealing and well-organized.
 Job 
 
 ### Specifications and Required Qualifications:
 #### Test 1
 Verify that the job specifications clearly outline the roles and responsibilities of a web developer at Hot Beans Web.
+
 #### Test 2
 Ensure that the required qualifications and skills for each job position are accurately stated.
+
 #### Test 3
 Check that the job specifications are easy to read and understand.
 
