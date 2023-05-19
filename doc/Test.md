@@ -4,18 +4,19 @@ The test plan covers testing activities for the profiles of the company, existin
 Test Environment: Specify the test environment, including hardware, software, browsers, and devices.....
 
 ##Test Plan
- What testing is intended to be done and how carry it out:
+ What testing is intended to be done:
 Verify the accuracy and completeness of the company profile, trainee web developer profiles, job specifications, and required qualifications.
 Validate the functionality and usability of the online application form.
 Ensure the proper functioning of links to web development courses.
 Evaluate the overall user experience for the target audience of aspiring web developers.
 
-### Company Profile:
+## Test
+### Test of Company Profile:
 Verify that the company profile accurately represents Hot Beans Web, including its history, achievements, and core values.
 Check for any grammatical or typographical errors in the company profile.
 Ensure the company profile is visually appealing and consistent with the website's design.
 
-### Trainee Web Developer Profiles:
+### Test of Trainee Web Developer Profiles:
 Validate the accuracy and completeness of the profiles of existing trainee web developers.
 Confirm that all required information, such as skills, experience, and projects, is included in the profiles.
 Ensure that the trainee web developer profiles are visually appealing and well-organized.
@@ -25,27 +26,27 @@ Verify that the job specifications clearly outline the roles and responsibilitie
 Ensure that the required qualifications and skills for each job position are accurately stated.
 Check that the job specifications are easy to read and understand.
 
-### Online Application Form:
+### Test of Online Application Form:
 Validate the functionality of the online application form, ensuring that users can input their information correctly.
 Test form validation to ensure that all mandatory fields are properly validated.
 Verify that the submitted application form data is stored correctly and can be accessed by the company.
 
-### Links to Web Development Courses:
+### Test of Online Application Form:
 Click on each link to web development courses and verify that they lead to the correct external websites or resources.
 Ensure that the links are active and functional across different browsers and devices.
 Confirm that the web development courses are relevant and beneficial for aspiring web developers.
 
-
-## Test
-Test functionality/performance...
-Etc...
-
-### Validation Reports 
-Validation report...
-
 ### Test Results
 Test Results...
 Rectification of errors/Unfixed errors...
+
+## Test Results of Company Profile:
+
+## Test Results of Trainee Web Developer Profiles:
+
+## Test Results of Online Application Form:
+
+## Test Results of Online Application Form:
 
 
 ### User Feedback
