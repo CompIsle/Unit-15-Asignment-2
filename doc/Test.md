@@ -20,24 +20,25 @@ Test 3: Ensure that the trainee web developer profiles are visually appealing an
 Job 
 
 ### Specifications and Required Qualifications:
-#### Test 1
-Verify that the job specifications clearly outline the roles and responsibilities of a web developer at Hot Beans Web.
+Test 1: Verify that the job specifications clearly outline the roles and responsibilities of a web developer at Hot Beans Web.
 
-#### Test 2
-Ensure that the required qualifications and skills for each job position are accurately stated.
+Test 2: Ensure that the required qualifications and skills for each job position are accurately stated.
 
-#### Test 3
-Check that the job specifications are easy to read and understand.
+Test 3: Check that the job specifications are easy to read and understand.
 
 ### Online Application Form:
-Validate the functionality of the online application form, ensuring that users can input their information correctly.
-Test form validation to ensure that all mandatory fields are properly validated.
-Verify that the submitted application form data is stored correctly and can be accessed by the company.
+Test 1: Validate the functionality of the online application form, ensuring that users can input their information correctly.
+
+Test 2: Test form validation to ensure that all mandatory fields are properly validated.
+
+Test 3: Verify that the submitted application form data is stored correctly and can be accessed by the company.
 
 ### Links to Web Development Courses:
-Click on each link to web development courses and verify that they lead to the correct external websites or resources.
-Ensure that the links are active and functional across different browsers and devices.
-Confirm that the web development courses are relevant and beneficial for aspiring web developers.
+Test 1: Click on each link to web development courses and verify that they lead to the correct external websites or resources.
+
+Test 2: Ensure that the links are active and functional across different browsers and devices.
+
+Test 3: Confirm that the web development courses are relevant and beneficial for aspiring web developers.
 
 
 ## Test Results
@@ -45,19 +46,41 @@ Test Results...
 Rectification of errors/Unfixed errors...
 
 ## Company Profile:
-I Checked the Compnay profile for Hot Beans Web and its passed thos test becasue it accurately represents Hot Beans Web as a company.
+Test 1: I Checked the Compnay profile for Hot Beans Web and its passed this test becasue it accurately represents Hot Beans Web as a company.
 
-Verify that the company profile accurately represents Hot Beans Web, including its history, achievements, and core values.
-Check for any grammatical or typographical errors in the company profile.
-Ensure the company profile is visually appealing and consistent with the website's design.
+Test 2: During this test i found some grammitcal and spelling mistakes that were then solved.
+
+Test 3: This test was also passed and the profile is visually apealling and consitent with the rest of the website.
+
+
 
 ## Trainee Web Developer Profiles:
+Test 1: 
+
+Test 2: 
+
+Test 3:  
 
 ## Specifications and Required Qualifications:
+Test 1: 
+
+Test 2: 
+
+Test 3:  
 
 ## Online Application Form:
+Test 1: 
+
+Test 2: 
+
+Test 3:  
 
 ## Links to Web Development Courses:
+Test 1: 
+
+Test 2: 
+
+Test 3:  
 
 
 ## User Feedback
