@@ -8,7 +8,9 @@ Test Environment: Specify the test environment, including hardware, software, br
 
 ### Company Profile:
 Test 1: Verify that the company profile accurately represents Hot Beans Web, including its history, achievements, and core values.
+
 Test 2: Check for any grammatical or typographical errors in the company profile.
+
 Test 3: Ensure the company profile is visually appealing and consistent with the website's design.
 
 ### Trainee Web Developer Profiles:
