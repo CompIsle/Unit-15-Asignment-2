@@ -18,9 +18,7 @@ Present job descriptions for junior a web developer position available at Hot Be
 Include detailed responsibilities, required skills, experience level, and qualifications for each position.
 
 ### Online Application Form:
-Create an online application form for interested candidates to apply for web developer positions.
-Include fields such as name, contact information, educational background and work experience.
-Implement form validation to ensure that all required fields are filled out correctly.
+Create an online application form for interested candidates to apply for web developer positions.Include fields such as name, contact information, educational background and work experience.Implement form validation to ensure that all required fields are filled out correctly.
 
 ### Links to Web Development Courses:
 Provide links to relevant web development courses, training programs, or certifications that would be beneficial for aspiring web developers.
