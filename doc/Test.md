@@ -54,12 +54,14 @@ Test 2: During this test i found some grammitcal and spelling mistakes that were
 
 Test 3: This test was also passed and the profile is visually apealling and consitent with the rest of the website.
 
-
-
 ## Trainee Web Developer Profiles:
 Test 1: 
 
 Test 2: 
+Initial Outcome: Failed
+Description: The trainee web developer profiles do not include the required education information.
+Final Outcome: passed
+Description: I fixed this error and correted the profiles.
 
 Test 3:  
 
