@@ -5,9 +5,13 @@ Test Environment: Specify the test environment, including hardware, software, br
 
 ## Test Plan
  What testing is intended to be done:
+
 Verify the accuracy and completeness of the company profile, trainee web developer profiles, job specifications, and required qualifications.
+
 Validate the functionality and usability of the online application form.
+
 Ensure the proper functioning of links to web development courses.
+
 Evaluate the overall user experience for the target audience of aspiring web developers.
 
 ## Test
