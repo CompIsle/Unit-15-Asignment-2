@@ -131,7 +131,7 @@ Test 2:\
 Outcome: Passed\
 Description: Links work and have been tested on Edge,Chrome and Firefox.
 
-Test 3:\ 
+Test 3:\
 Outcome: Passed\
 Description: The website are revlenat and beneficial for aspiring web devlopers.
 
