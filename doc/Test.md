@@ -158,6 +158,13 @@ Changes made due to feedback...
 
 
 
+### Chat Gpt
+I added a Navbar with a active coloring so that the page you are on is a diffrent color.
+![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback3.png)
+
+
+
+
 
 
 
