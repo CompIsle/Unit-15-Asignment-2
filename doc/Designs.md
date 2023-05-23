@@ -39,7 +39,7 @@ The Jobs page which show all avlaible jobs to join the compnay. It will also inc
 The Conatact poage iwll only contain contact infomation and adress for the company.
 
 ### Pictures of design
-Color, text and sizes not acurate. For more details see further down the document in the Colour schemes/Typography/Navigation section.\
+Color, text and sizes not acurate. For more details see further down the document in the Colour schemes/Typography/Navigation section.
 
 About Us page:\
 ![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign1.png)
@@ -51,19 +51,22 @@ Contact page:\
 ![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign3.png)
 
 ### Colour schemes/Typography/Navigation
-Color Scheme:
+Color Scheme:\
 The color scheme for the website is clean and modern, with a predominantly white background and subtle shades of gray for the text and borders.
 The navigation bar will have a vlack color to create a visual contrast and make it stand out. Heading and subtitles are surrounded by a red background to enable them to stand out more and atract attention.
 
-Typography:
+Typography:\
 The website can use a professional and legible font combination for the text.
 For headings and titles, a bold sans-serif font can be used to convey a modern and sleek look.
 For the main body text, a clean and readable serif or sans-serif font can be chosen for optimal legibility.
 
-Navigation:
+Navigation:\
 The navigation bar can be placed at the top of the webpage for easy access and visibility.
 It can consist of text links, such as "Home," "About," "Jobs," and "Contact," aligned horizontally.
 When hovering over a link, it can change color or display a subtle animation to provide visual feedback.
+
+Sizes:
+
 
 ### Alternative desgin...
 During design it is important to have anb alternative design becasue an alternative design allows you to explore different visual styles, layouts, color schemes, typography, and other design elements.
