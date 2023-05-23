@@ -26,11 +26,11 @@ Provide links to relevant web development courses, training programs, or certifi
 
 ## Tooling
 Tools used during the creation and desgin of this prjoect where:\
-Html\
-CSS\
-Github\
-Visual Studio\
-Online Wireframe Software (https://wireframe.cc/VEnMau)
+* Html\
+* CSS\
+* Github\
+* Visual Studio\
+* Online Wireframe Software (https://wireframe.cc/VEnMau)
 
 
 ## Design
