@@ -69,7 +69,7 @@ When hovering over a link, it can change color or display a subtle animation to 
 During design it is important to have an alternative design because an alternative design allows you to explore different visual styles, layouts, color schemes, typography, and other design elements.
 It gives you the opportunity to experiment and find the best combination that aligns with your website's goals, target audience, and branding.
 
-I picked the First design instead of thhis alternative design because overall i preferred it aesthetics and design compared to the alterntive design. Overall i belive that the design i picked was better and would work better as the companys new section to thier website.
+I picked the First design instead of this alternative design because overall i preferred it aesthetics and design compared to the alterntive design. Overall i belive that the design i picked was better and would work better as the companys new section to thier website.
 
 About Us page:\
 ![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign4.png)
@@ -97,6 +97,7 @@ The page effectively presents information. The headings clearly communicates the
 
 Visual Elements:\
 The page incorporates visual elements such as dividers, white space, and headings with background colors. These elements help break down the content into sections and improve the overall visual hierarchy. The use of dividers and ample white space ensures that the content is not overwhelming and allows users to focus on the important details.
+
 Color Scheme and Typography:\
 The chosen color scheme, with a predominantly white background and subtle shades of gray, creates a clean and modern look. The use of a black navigation bar adds visual contrast and ensures its prominence. The selected typography aims for a professional and legible font combination, enhancing readability and user experience.
 
