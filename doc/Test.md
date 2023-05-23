@@ -76,7 +76,7 @@ Description: This test was also passed as the profile is visually apealling and 
 ### Trainee Web Developer Profiles:
 Test 1:\
 Initial Outcome: Failed\
-Description: The trainee web developer profiles do not include the required content said in the brief. My profiles are for existing staff,such as the Head of marketing, which is not what the breif said it wanted profiels of junior web devlopers\
+Description: The trainee web developer profiles do not include the required content said in the brief. My profiles are for existing staff,such as the Head of marketing, which is not what the breif wnated. It wanted profiels of junior web devlopers\
 ScreenShot:\
 ![Image of old Our Staff with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfOurStaff1.png)\
 Final Outcome: Passed.\
