@@ -98,7 +98,7 @@ Outcome: Passed\
 Description: This section clearly outline whats the roles and responsibility of a junior web devloper.
 
 Test 2:\
-Inital Outcome: Failed/
+Inital Outcome: Failed\
 Description: Most of the required qualfications/skills for the junior web devloper job are ok but a few are not. For example that you are required to have 2 years experinece of being a junior web delvoper before you can become a junior web devloper.\
 ScreenShot:\
 ![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfJobRequirments1.png)\
