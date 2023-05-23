@@ -39,6 +39,8 @@ The Jobs page which show all avlaible jobs to join the compnay. It will also inc
 The Conatact poage iwll only contain contact infomation and adress for the company.
 
 ### Pictures of design
+Color, text and sizes not acurate. For more details see further down the document in the Colour schemes/Typography/Navigation section.\
+
 About Us page:\
 ![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign1.png)
 
@@ -68,10 +70,13 @@ During design it is important to have anb alternative design becasue an alternat
 It gives you the opportunity to experiment and find the best combination that aligns with your website's goals, target audience, and branding.
 
 About Us page:\
+![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign4.png)
 
 Job page:\
+![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign5.png)
 
 Contact page:\
+![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign6.png)
 
 ### Design justification
 I picked the Design instad of the alternative design because overall i perfered it asethitcs and design compared to the alterntive design. Overall i belive that the design i picked was better and would work better as the companys new section to thier website.
