@@ -30,10 +30,13 @@ Html\
 CSS\
 Github\
 Visual Studio
+[Online Wireframe Software(https://wireframe.cc/VEnMau)
 
 
 ## Design
-This is The design for the website.
+This is The design for the website. The New section of the website will consit of three pages of conetent. The About us page which will describe the business. It will also show its current staff and client testimonals and awards.
+The Jobs page which show all avlaible jobs to join the compnay. It will also include a working aplication form and link to web devlopment courses.
+The Conatact poage iwll only contain contact infomation and adress for the company.
 
 ### Pictures of design
 About Us page:\
@@ -48,7 +51,7 @@ Contact page:\
 ### Colour schemes/Typography/Navigation
 Color Scheme:
 The color scheme for the website is clean and modern, with a predominantly white background and subtle shades of gray for the text and borders.
-The navigation bar can have a slightly darker shade of gray to create a visual contrast and make it stand out. Heading ans subtitles are surronede by a red Square to enable them to stand out more and atract attention.\
+The navigation bar will have a vlack color to create a visual contrast and make it stand out. Heading and subtitles are surrounded by a red background to enable them to stand out more and atract attention.\
 
 Typography:
 The website can use a professional and legible font combination for the text.
@@ -61,12 +64,15 @@ It can consist of text links, such as "Home," "About," "Jobs," and "Contact," al
 When hovering over a link, it can change color or display a subtle animation to provide visual feedback.
 
 ### Alternative desgin...
+During design it is important to have anb alternative design becasue an alternative design allows you to explore different visual styles, layouts, color schemes, typography, and other design elements.
+It gives you the opportunity to experiment and find the best combination that aligns with your website's goals, target audience, and branding.
 
-### Design justification(why picked design)...
+About Us page:\
 
+Job page:\
 
+Contact page:\
 
-
-
-Sources(where images coming from/url)
+### Design justification
+I picked the Design instad of the alternative design because overall i perfered it asethitcs and design compared to the alterntive design. Overall i belive that the design i picked was better and would work better as the companys new section to thier website.
 
