@@ -24,14 +24,41 @@ Create an online application form for interested candidates to apply for web dev
 Provide links to relevant web development courses, training programs, or certifications that would be beneficial for aspiring web developers.
 
 
-## Tooling - Tools using Html/css/bootstrap
-Tools used are...
+## Tooling
+Tools used suring the creation and desgin of this prjoect where:\
+Html\
+CSS\
+Github\
+Visual Studio\
 
 
 ## Design
-Pictures of design(Wireframes/Storyboards)...
-Colour schemes/Typography/Navigation...
-Alternative desgin...
-Design justification(why picked design)...
+This is The design for the website.
+
+### Pictures of design(Wireframes/Storyboards)
+
+### Colour schemes/Typography/Navigation
+Color Scheme:
+The color scheme for the website is clean and modern, with a predominantly white background and subtle shades of gray for the text and borders.
+The navigation bar can have a slightly darker shade of gray to create a visual contrast and make it stand out. Heading ans subtitles are surronede by a red Square to enable them to stand out more and atract attention.\
+
+Typography:
+The website can use a professional and legible font combination for the text.
+For headings and titles, a bold sans-serif font can be used to convey a modern and sleek look.
+For the main body text, a clean and readable serif or sans-serif font can be chosen for optimal legibility.\
+
+Navigation:
+The navigation bar can be placed at the top of the webpage for easy access and visibility.
+It can consist of text links, such as "Home," "About," "Jobs," and "Contact," aligned horizontally.
+When hovering over a link, it can change color or display a subtle animation to provide visual feedback.
+
+### Alternative desgin...
+
+### Design justification(why picked design)...
+
+
+
+
+
 Sources(where images coming from/url)
 
