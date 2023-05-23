@@ -1,5 +1,5 @@
 # Website Designs
-In this Document it will Detail...
+This Document will serve as a comprehensive guide and reference for the website design process. It outlines the goals, requirements, and specifications for the design of a website
 
 ## Requirements
 <!--Check Requirments-->
