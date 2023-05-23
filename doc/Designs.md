@@ -25,7 +25,7 @@ Provide links to relevant web development courses, training programs, or certifi
 
 
 ## Tooling
-Tools used suring the creation and desgin of this prjoect where:\
+Tools used during the creation and desgin of this prjoect where:\
 Html\
 CSS\
 Github\
