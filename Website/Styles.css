@@ -20,6 +20,11 @@
 .NavigationBar a:hover {
     background: red;
 }
+.NavigationBar > .active > a {
+    background-color: deeppink;
+}
+
+
 
 /*About us*/
 .AboutUsHeading {
@@ -370,7 +375,4 @@ margin-bottom:10px;
 
 
 
-/*Nav bar color*/
-.navbar-nav > .active > a {
-    background-color: deeppink;
-}
+
