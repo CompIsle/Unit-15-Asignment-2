@@ -3,8 +3,8 @@
 ### Website
 
 ###Doucments
-Test documents Picture sizes
-Design document finshed
-Evulation
+Design document - justification
 feedback
+
+Evulation
 Gramitical check

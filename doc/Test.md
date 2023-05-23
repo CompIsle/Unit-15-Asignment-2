@@ -6,14 +6,14 @@ The test plan covers testing activities for the profiles of the company, existin
 This section will Specify the test environment, including hardware, software, and browsers.
 
 ### Hardware
-Computer\
+Computer:\
 ![Image of old Our Staff with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfHardware.png)
 
 ### Software
 Software used on the test device was windows 10 education edition. Version 22H2
 
 ### Browsers
-Browsers used in the test where Edge, Chrome and firefox.
+Browsers used in the test were Edge, Chrome and firefox.
 
 
 ## Test Plan
@@ -56,18 +56,18 @@ Test 2: Ensure that the links are active and functional across different browser
 Test 3: Confirm that the web development courses are relevant and beneficial for aspiring web developers.
 
 ## Test Results
-In this section it will display the test Results and any fault swith be rectified.
+In this section it will display the test Results and any faults discovered will be rectified.
 
 ### Company Profile:
 Test 1:\
 Outcome: Passed.\
-Description: I Checked the Compnay profile for Hot Beans Web and its passed this test becasue it accurately represents Hot Beans Web as a company.
+Description: I Checked the Company profile for Hot Beans Web and its passed this test becasue it accurately represents Hot Beans Web as a company.
 
 Test 2:\
 Initial Outcome: Failed.\
-Description: During this test i found some grammitcal and spelling mistakes.\
+Description: During this test i found some grammatical and spelling mistakes.\
 Final Outcome: passed.\
-Description: Fixed all the spellign and grammitcal erros found.
+Description: Fixed all the spelling and grammatical erros found.
 
 Test 3:\
 Outcome: Passed.\
@@ -76,17 +76,17 @@ Description: This test was also passed as the profile is visually apealling and 
 ### Trainee Web Developer Profiles:
 Test 1:\
 Initial Outcome: Failed\
-Description: The trainee web developer profiles do not include the required content said in the brief. My profiles are for existing staff,such as the Head of marketing, which is not what the breif wnated. It wanted profiels of junior web devlopers\
+Description: The trainee web developer profiles do not include the required content said in the brief. My profiles are for existing staff,such as the Head of Design, which is not what the breif wanted. It wanted profiles of junior web developers\
 ScreenShot:\
 
 ![Image of old Our Staff with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfOurStaff1.png)\
 
 Final Outcome: Passed.\
-Description: I fixed this error and correted the profiles.
+Description: I fixed this error and corrected the profiles.
 
 Test 2:\
 Outcome : Passed\
-Description: When Fixing the issue for test 1 i ensured that all infomation that was required was there.
+Description: When Fixing the issue for test 1 I ensured that all information that was required was there.
 
 Test 3:\
 Outcome: Passed\
@@ -95,19 +95,19 @@ Description: The Our staff section is visually apealing and well-organised.
 ### Specifications and Required Qualifications:
 Test 1:\
 Outcome: Passed\
-Description: This section clearly outline whats the roles and responsibility of a junior web devloper.
+Description: This section clearly outline whats the roles and responsibility of a junior web developer are.
 
 Test 2:\
 Inital Outcome: Failed\
-Description: Most of the required qualfications/skills for the junior web devloper job are ok but a few are not. For example that you are required to have 2 years experinece of being a junior web delvoper before you can become a junior web devloper.\
+Description: Most of the required qualfications/skills for the junior web devloper job are ok but a few are not. For example the old requirments said that you are required to have 2 years experinece of being a junior web developer before you can become a junior web developer.\
 ScreenShot:\
 ![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfJobRequirments1.png)\
 Final Outcome: Passed.\
-Description: I fixed this error and correted the Requirments.
+Description: I fixed this error and corrected the Requirments.
 
 Test 3:\
 Outcome: Passed\
-Description: The job specification are neatly layed out and easy to read and understand.
+Description: The job specification are neatly laid out and easy to read and understand.
 
 ### Online Application Form:
 Test 1:\
@@ -116,11 +116,11 @@ Description: Users can input thier data correctly
 
 Test 2:\
 Outcome: Passed\
-Description: Data is validated so that it ensures that you are required to fill in every box but not further than that. So althought it is slightly validate it could be more validated, to ensure that the correct anwser is given.
+Description: Data is validated so that it ensures that you are required to fill in every box but not further than that. So althought it is slightly validated it could be more validated, to ensure that the correct anwser is given.
 
 Test 3:\
 Outcome: Passed\
-Description: When sumbitted the appilcation takes the user to a new page confirmg that they have submitted thier aplication.\
+Description: When sumbitted the application takes the user to a new page confirmg that they have submitted their aplication.\
 ScreenShot:\
 ![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfSucsessfulSubmittion1.png)
 
@@ -131,11 +131,11 @@ Description: Each link leads to the correct website.
 
 Test 2:\
 Outcome: Passed\
-Description: Links work and have been tested on Edge,Chrome and Firefox.
+Description: The links work and have been tested on Edge,Chrome and Firefox.
 
 Test 3:\
 Outcome: Passed\
-Description: The website are revlenat and beneficial for aspiring web devlopers.
+Description: The websites are relevant and beneficial for aspiring web devlopers.
 
 ## User Feedback
 Exactly what they said/who said it * 2...
