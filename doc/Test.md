@@ -58,7 +58,7 @@ Test 3: Confirm that the web development courses are relevant and beneficial for
 ## Test Results
 In this section it will display the test Results and any fault swith be rectified.
 
-## Company Profile:
+### Company Profile:
 Test 1:\
 Outcome: Passed.\
 Description: I Checked the Compnay profile for Hot Beans Web and its passed this test becasue it accurately represents Hot Beans Web as a company.
@@ -73,7 +73,7 @@ Test 3:\
 Outcome: Passed.\
 Description: This test was also passed as the profile is visually apealling and consitent with the rest of the website.
 
-## Trainee Web Developer Profiles:
+### Trainee Web Developer Profiles:
 Test 1:\
 Initial Outcome: Failed\
 Description: The trainee web developer profiles do not include the required content said in the brief. My profiles are for existing staff,such as the Head of marketing, which is not what the breif said it wanted profiels of junior web devlopers\
@@ -90,7 +90,7 @@ Test 3:\
 Outcome: Passed\
 Description: The Our staff section is visually apealing and well-organised.
 
-## Specifications and Required Qualifications:
+### Specifications and Required Qualifications:
 Test 1:\
 Outcome: Passed\
 Description: This section clearly outline whats the roles and responsibility of a junior web devloper.
@@ -107,7 +107,7 @@ Test 3:\
 Outcome: Passed\
 Description: The job specification are neatly layed out and easy to read and understand.
 
-## Online Application Form:
+### Online Application Form:
 Test 1:\
 Outcome: Passed\
 Description: Users can input thier data correctly
@@ -122,7 +122,7 @@ Description: When sumbitted the appilcation takes the user to a new page confirm
 ScreenShot:\
 ![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfSucsessfulSubmittion1.png)
 
-## Links to Web Development Courses:
+### Links to Web Development Courses:
 Test 1:\
 Outcome: Passed\
 Description: Each link leads to the correct website.
