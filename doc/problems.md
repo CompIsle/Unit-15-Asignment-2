@@ -1,8 +1,10 @@
 ## fixes
 
+### Website
 
-Staff profiles of exsitng junior devlopers
-
-
+###Doucments
 Test documents Picture sizes
 Design document finshed
+Evulation
+feedback
+Gramitical check

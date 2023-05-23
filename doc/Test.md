@@ -97,13 +97,13 @@ Description: This section clearly outline whats the roles and responsibility of 
 
 Test 2:\
 Inital Outcome: Failed/
-Description: Most of the required qualfications/skills for the junior web devloper job are ok but a few are not. For example that you are required to have 2 years experinece of being a junior web delvoper before you can become a junior web devloper.
+Description: Most of the required qualfications/skills for the junior web devloper job are ok but a few are not. For example that you are required to have 2 years experinece of being a junior web delvoper before you can become a junior web devloper.\
 ScreenShot:\
 ![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfJobRequirments1.png)\
 Final Outcome: Passed.\
 Description: I fixed this error and correted the Requirments.
 
-Test 3:\ 
+Test 3:\
 Outcome: Passed\
 Description: The job specification are neatly layed out and easy to read and understand.
 
@@ -116,7 +116,7 @@ Test 2:\
 Outcome: Passed\
 Description: Data is validated so that it ensures that you are required to fill in every box but not further than that. So althought it is slightly validate it could be more validated, to ensure that the correct anwser is given.
 
-Test 3:\ 
+Test 3:\
 Outcome: Passed\
 Description: When sumbitted the appilcation takes the user to a new page confirmg that they have submitted thier aplication.\
 ScreenShot:\
