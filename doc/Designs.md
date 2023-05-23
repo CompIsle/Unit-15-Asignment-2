@@ -53,12 +53,12 @@ Contact page:\
 ### Colour schemes/Typography/Navigation
 Color Scheme:
 The color scheme for the website is clean and modern, with a predominantly white background and subtle shades of gray for the text and borders.
-The navigation bar will have a vlack color to create a visual contrast and make it stand out. Heading and subtitles are surrounded by a red background to enable them to stand out more and atract attention.\
+The navigation bar will have a vlack color to create a visual contrast and make it stand out. Heading and subtitles are surrounded by a red background to enable them to stand out more and atract attention.
 
 Typography:
 The website can use a professional and legible font combination for the text.
 For headings and titles, a bold sans-serif font can be used to convey a modern and sleek look.
-For the main body text, a clean and readable serif or sans-serif font can be chosen for optimal legibility.\
+For the main body text, a clean and readable serif or sans-serif font can be chosen for optimal legibility.
 
 Navigation:
 The navigation bar can be placed at the top of the webpage for easy access and visibility.
