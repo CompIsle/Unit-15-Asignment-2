@@ -138,12 +138,11 @@ Outcome: Passed\
 Description: The websites are relevant and beneficial for aspiring web developers.
 
 ## User Feedback
-Exactly what they said/who said it * 2...
+Feeback received on the website
 
+### Person 1
 
-
-
-
+### Person 2
 
 ### Chat Gpt
 I was curious so i decided to ask chat gpt to give me feeback for the design of the website.\
@@ -152,15 +151,25 @@ I was curious so i decided to ask chat gpt to give me feeback for the design of 
 
 
 ## Response to Feedback
-Changes made due to feedback...
+Changes made due to feedback
 
+### Person 1
 
-
-
+### Person 2
 
 ### Chat Gpt
 I added a Navbar with a active coloring so that the page you are on is a diffrent color.
-![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback3.png)
+![Image of Change](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback3.png)
+
+
+
+
+
+
+
+
+
+
 
 
 
