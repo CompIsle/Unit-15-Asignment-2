@@ -37,7 +37,7 @@ This is The design for the website.
 
 ### Pictures of design
 About Us page:\
-![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign1.png)\
+![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign1.png)
 
 
 ### Colour schemes/Typography/Navigation
