@@ -135,7 +135,7 @@ Description: The links work and have been tested on Edge,Chrome and Firefox.
 
 Test 3:\
 Outcome: Passed\
-Description: The websites are relevant and beneficial for aspiring web devlopers.
+Description: The websites are relevant and beneficial for aspiring web developers.
 
 ## User Feedback
 Exactly what they said/who said it * 2...
