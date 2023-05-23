@@ -97,7 +97,7 @@ Description: This section clearly outline whats the roles and responsibility of 
 
 Test 2:\
 Inital Outcome: Failed/
-Description: The required qualfication/skills are for a junior web devloper but they are too complicated/too much for that job.\
+Description: Most of the required qualfications/skills for the junior web devloper job are ok but a few are not. For example that you are required to have 2 years experinece of being a junior web delvoper before you can become a junior web devloper.
 ScreenShot:\
 ![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfJobRequirments1.png)\
 Final Outcome: Passed.\

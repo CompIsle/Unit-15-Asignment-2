@@ -5,3 +5,4 @@ Staff profiles of exsitng junior devlopers
 
 
 Test documents Picture sizes
+Design document finshed
