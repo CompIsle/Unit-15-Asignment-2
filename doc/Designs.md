@@ -83,21 +83,20 @@ Contact page:\
 ### Design justification
 The design decisions made for the website aim to meet user needs and create a design that is fit for its purpose. 
 
-Navigation Bar:\
-The navigation bar is placed at the top of the webpage for easy access and visibility. It includes links to important sections such as Home, About, Jobs, and Contact. This design choice ensures that users can navigate the website easily and find the desired information quickly.
+Overall Layout and Structure:\
+The design follows a clear and logical layout structure. It begins with a heading displayed prominently, immediately grabbing the attention of the users. The content is organized in a hierarchical manner, with details presented in a structured format.
 
-About Us Section:\
-The About Us section provides a comprehensive overview of Hot Beans Web, including its history, mission, and core values. It highlights the company's expertise and experience in web development, showcasing its credibility and building trust with potential clients. The use of descriptive text and engaging content aims to captivate users and convey the company's passion for web development.
+Navigation:\
+The page includes a navigation bar at the top, providing easy access to other sections of the website. Users can navigate to the "Home," "About," "Jobs," and "Contact" pages effortlessly. This consistent navigation allows users to explore the website seamlessly.
 
-Our Staff:\
-The inclusion of profiles for the trainee web developers at Hot Beans Web serves multiple purposes. It introduces the team members and adds a personal touch to the website, making it more relatable. Users can see the names, profile pictures, and brief information about the staff, which helps in establishing a connection and building trust.
+Typography:\
+The choice of fonts enhances readability and visual appeal. Headings are displayed in a larger and bolder font, clearly distinguishing them from the body text. The body text is legible and uses an appropriate font size, ensuring comfortable reading for users.
 
-Client Testimonials:\
-The testimonials from satisfied clients provide social proof and reinforce the company's reputation. By featuring positive feedback and testimonials, the design aims to instill confidence in potential clients and convince them of Hot Beans Web's expertise and reliability.
+Content Presentation:\
+The page effectively presents information. The headings clearly communicates the purpose of the page. The use of bullet points enhances readability and makes it easy for users to scan the information.
 
-Awards Section:\
-The inclusion of an awards section showcases the recognition and achievements of Hot Beans Web. This helps to build credibility and position the company as a leader in the web development industry. Users can see the awards received by the company, which further strengthens their trust and confidence in the company's capabilities.
-
+Visual Elements:\
+The page incorporates visual elements such as dividers, white space, and headings with background colors. These elements help break down the content into sections and improve the overall visual hierarchy. The use of dividers and ample white space ensures that the content is not overwhelming and allows users to focus on the important details.
 Color Scheme and Typography:\
 The chosen color scheme, with a predominantly white background and subtle shades of gray, creates a clean and modern look. The use of a black navigation bar adds visual contrast and ensures its prominence. The selected typography aims for a professional and legible font combination, enhancing readability and user experience.
 
