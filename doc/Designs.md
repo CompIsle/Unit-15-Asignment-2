@@ -35,7 +35,10 @@ Visual Studio\
 ## Design
 This is The design for the website.
 
-### Pictures of design(Wireframes/Storyboards)
+### Pictures of design
+About Us page:\
+![Image of old Our Staff with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign1.png)\
+
 
 ### Colour schemes/Typography/Navigation
 Color Scheme:
