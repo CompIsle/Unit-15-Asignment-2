@@ -147,11 +147,17 @@ Exactly what they said/who said it * 2...
 
 ### Chat Gpt
 I was curious so i decided to ask chat gpt to give me feeback for the design of the website.
-
+![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback1.png)
+![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback1.png)
 
 
 ## Response to Feedback
 Changes made due to feedback...
+
+
+
+
+
 
 
 
