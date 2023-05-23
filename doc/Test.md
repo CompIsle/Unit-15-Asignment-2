@@ -2,11 +2,11 @@
 The purpose of this test plan is to ensure the quality and functionality of the new section on Hot Beans Web's website, which promotes the company to prospective employees.
 The test plan covers testing activities for the profiles of the company, existing trainee web developers, job specifications, the online application form, and links to web development courses.
 
-##Test Environment
+## Test Environment
 This section will Specify the test environment, including hardware, software, and browsers.
 
 ### Hardware
-Computer
+Computer\
 ![Image of old Our Staff with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfHardware.png)
 
 ### Software
@@ -97,7 +97,7 @@ Description: This section clearly outline whats the roles and responsibility of 
 
 Test 2:\
 Inital Outcome: Failed/
-Description: The required qualfication/skills are for a junior web devloper but they are too complicated/too much for that job.
+Description: The required qualfication/skills are for a junior web devloper but they are too complicated/too much for that job.\
 ScreenShot:\
 ![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfJobRequirments1.png)\
 Final Outcome: Passed.\
@@ -118,7 +118,7 @@ Description: Data is validated so that it ensures that you are required to fill 
 
 Test 3:\ 
 Outcome: Passed\
-Description: When sumbitted the appilcation takes the user to a new page confirmg that they have submitted thier aplication.
+Description: When sumbitted the appilcation takes the user to a new page confirmg that they have submitted thier aplication.\
 ScreenShot:\
 ![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfSucsessfulSubmittion1.png)
 
