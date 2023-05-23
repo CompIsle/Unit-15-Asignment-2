@@ -5,6 +5,8 @@ In this Document it will Detail...
 The website's design achieves a visually pleasing and professional aesthetic. The color scheme, typography, and layout contribute to a cohesive and engaging user experience. 
 Visual elements, such as images, dividers, and background colors, effectively enhance the overall design without overwhelming the content.
 
+During the design process, alternatives were considered, such as different layout structures or color schemes, to ensure the best fit for the client's requirements and to ensure the best website possible. 
+
 ## Devlopemnt Evaluation
 The development stage involved the implementation of the website's design, ensuring its functionality and responsiveness across different devices and browsers. The website was built using HTML and CSS adhering to web standards and best practices.
 

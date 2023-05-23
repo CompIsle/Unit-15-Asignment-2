@@ -65,7 +65,7 @@ The navigation bar can be placed at the top of the webpage for easy access and v
 It can consist of text links, such as "Home," "About," "Jobs," and "Contact," aligned horizontally.
 When hovering over a link, it can change color or display a subtle animation to provide visual feedback.
 
-### Alternative desgin...
+## Alternative desgin...
 During design it is important to have an alternative design because an alternative design allows you to explore different visual styles, layouts, color schemes, typography, and other design elements.
 It gives you the opportunity to experiment and find the best combination that aligns with your website's goals, target audience, and branding.
 
@@ -80,7 +80,7 @@ Job page:\
 Contact page:\
 ![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign6.png)
 
-### Design justification
+## Design justification
 The design decisions made for the website aim to meet user needs and create a design that is fit for its purpose. 
 
 Overall Layout and Structure:\
