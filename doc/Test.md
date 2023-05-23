@@ -1,10 +1,23 @@
 # Website Testing
 The purpose of this test plan is to ensure the quality and functionality of the new section on Hot Beans Web's website, which promotes the company to prospective employees.
 The test plan covers testing activities for the profiles of the company, existing trainee web developers, job specifications, the online application form, and links to web development courses.
-Test Environment: Specify the test environment, including hardware, software, browsers, and devices.....
+
+##Test Environment
+This section will Specify the test environment, including hardware, software, and browsers.
+
+### Hardware
+Computer
+![Image of old Our Staff with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfHardware.png)
+
+### Software
+Software used on the test device was windows 10 education edition. Version 22H2
+
+### Browsers
+Browsers used in the test where Edge, Chrome and firefox.
+
 
 ## Test Plan
- What testing is intended to be done:
+ In this section it will display what testing is intended to be done:
 
 ### Company Profile:
 Test 1: Verify that the company profile accurately represents Hot Beans Web, including its history, achievements, and core values.
@@ -33,7 +46,7 @@ Test 1: Validate the functionality of the online application form, ensuring that
 
 Test 2: Test form validation to ensure that all mandatory fields are properly validated.
 
-Test 3: Verify that the submitted application form data is stored correctly and can be accessed by the company.
+Test 3: Verify that the submitted application is succefully completed.
 
 ### Links to Web Development Courses:
 Test 1: Click on each link to web development courses and verify that they lead to the correct external websites or resources.
@@ -42,10 +55,8 @@ Test 2: Ensure that the links are active and functional across different browser
 
 Test 3: Confirm that the web development courses are relevant and beneficial for aspiring web developers.
 
-
 ## Test Results
-Test Results...
-Rectification of errors/Unfixed errors...
+In this section it will display the test Results and any fault swith be rectified.
 
 ## Company Profile:
 Test 1:\
@@ -60,42 +71,69 @@ Description: Fixed all the spellign and grammitcal erros found.
 
 Test 3:\
 Outcome: Passed.\
-Description: This test was also passed and the profile is visually apealling and consitent with the rest of the website.
+Description: This test was also passed as the profile is visually apealling and consitent with the rest of the website.
 
 ## Trainee Web Developer Profiles:
-Test 1:
-
-Test 2:\
+Test 1:\
 Initial Outcome: Failed\
-Description: The trainee web developer profiles do not include the required information in the brief. My profiles are for existing staff which is not what the breif said it wanted profiels of junior web devlopers\
+Description: The trainee web developer profiles do not include the required content said in the brief. My profiles are for existing staff,such as the Head of marketing, which is not what the breif said it wanted profiels of junior web devlopers\
 ScreenShot:\
 ![Image of old Our Staff with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfOurStaff1.png)\
 Final Outcome: Passed.\
 Description: I fixed this error and correted the profiles.
 
-Test 3:  
+Test 2:\
+Outcome : Passed\
+Description: When Fixing the issue for test 1 i ensured that all infomation that was required was there.
+
+Test 3:\
+Outcome: Passed\
+Description: The Our staff section is visually apealing and well-organised.
 
 ## Specifications and Required Qualifications:
-Test 1: 
+Test 1:\
+Outcome: Passed\
+Description: This section clearly outline whats the roles and responsibility of a junior web devloper.
 
-Test 2: 
+Test 2:\
+Inital Outcome: Failed/
+Description: The required qualfication/skills are for a junior web devloper but they are too complicated/too much for that job.
+ScreenShot:\
+![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfJobRequirments1.png)\
+Final Outcome: Passed.\
+Description: I fixed this error and correted the Requirments.
 
-Test 3:  
+Test 3:\ 
+Outcome: Passed\
+Description: The job specification are neatly layed out and easy to read and understand.
 
 ## Online Application Form:
-Test 1: 
+Test 1:\
+Outcome: Passed\
+Description: Users can input thier data correctly
 
-Test 2: 
+Test 2:\
+Outcome: Passed\
+Description: Data is validated so that it ensures that you are required to fill in every box but not further than that. So althought it is slightly validate it could be more validated, to ensure that the correct anwser is given.
 
-Test 3:  
+Test 3:\ 
+Outcome: Passed\
+Description: When sumbitted the appilcation takes the user to a new page confirmg that they have submitted thier aplication.
+ScreenShot:\
+![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfSucsessfulSubmittion1.png)
 
 ## Links to Web Development Courses:
-Test 1: 
+Test 1:\
+Outcome: Passed\
+Description: Each link leads to the correct website.
 
-Test 2: 
+Test 2:\
+Outcome: Passed\
+Description: Links work and have been tested on Edge,Chrome and Firefox.
 
-Test 3:  
-
+Test 3:\ 
+Outcome: Passed\
+Description: The website are revlenat and beneficial for aspiring web devlopers.
 
 ## User Feedback
 Exactly what they said/who said it * 2...

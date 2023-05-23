@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\doc"
+    "\\doc",
+    "\\doc\\ScreenShots",
+    "\\Website",
+    "\\Website\\Pages"
   ],
-  "SelectedNode": "\\doc\\problems.md",
+  "SelectedNode": "\\Website\\Pages\\AboutUs.html",
   "PreviewInSolutionExplorer": false
 }
