@@ -140,6 +140,16 @@ Description: The websites are relevant and beneficial for aspiring web developer
 ## User Feedback
 Exactly what they said/who said it * 2...
 
+
+
+
+
+
+### Chat Gpt
+I was curious so i decided to ask chat gpt to give me feeback for the design of the website.
+
+
+
 ## Response to Feedback
 Changes made due to feedback...
 
