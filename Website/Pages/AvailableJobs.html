@@ -67,13 +67,10 @@
                     </select>
 
                     <label for="Pnumber">Phone Number</label>
-                    <input type="text" id="Pnumber" name="PhoneNumber" placeholder="Your phone number.." required>
+                    <input type="number" id="Pnumber" name="PhoneNumber" placeholder="Your phone number.." required>
 
                     <label for="Email">Email</label>
-                    <input type="text" id="Email" name="EMAIL" placeholder="Your email.." required>
-
-                    <label for="qualifcations">Qualifcations</label>
-                    <input type="text" id="qualifcations" name="Qualifcations" placeholder="Your Qualifcations.." required>
+                    <input type="email" id="Email" name="EMAIL" placeholder="Your email.." required>
 
                     <label for="Exp">Experience</label>
                     <select id="Exp" name="Experience">
@@ -85,6 +82,9 @@
                         <option value="5 Years">5 years</option>
                         <option value="Over 5 Years">Over 5 years</option>
                     </select>
+
+                    <label for="qualifcations">Qualifcations/CV</label>
+                    <input type="file" id="qualifcations" name="Qualifcations" required>
 
                     <input type="submit" value="Submit">
                 </form>
