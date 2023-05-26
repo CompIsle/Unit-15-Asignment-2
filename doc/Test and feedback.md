@@ -152,9 +152,9 @@ The second change i made was was also like charlie suggested and i used an onlin
 The Third and final change i made was to chnage the colors of our staff section so that it is more uniform and looks better.\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback7.png)
 
-## Person 2 Feedback
+<!--## Person 2 Feedback
 
-### Response To Person 2 Feedback
+### Response To Person 2 Feedback-->
 
 ## Chat Gpt Feedback
 I was curious so i decided to ask chat gpt to give me feeback for the design of the website.\
