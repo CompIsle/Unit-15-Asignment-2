@@ -16,3 +16,5 @@ The website's responsive design allows seamless user interaction on various scre
 ## Self Evaluation
 Throughout the project, my skills, performance, and behaviors played a crucial role in the development of the final website. 
 I effectively applied my knowledge of web design principles and coding languages to create a functional and visually appealing website.
+
+## Conclusion
