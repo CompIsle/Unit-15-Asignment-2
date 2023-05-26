@@ -145,12 +145,12 @@ I recived Feeback from charlie about a multitude of things and becasue of his id
 ![Image of Charlies Feedback](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback4.png)
 
 ### Response To Person 1 Feedback
-The first change i made was adding padding to the the requirments on the jons page like charlie suggested.\
+The first change i made was adding padding to the the requirements on the jobs page like charlie suggested.\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback5.png)\
 The second change i made was was also like charlie suggested and i used an online background removing tool to remove the checkerboard background.\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback6.png)\
 The Third and final change i made was to chnage the colors of our staff section so that it is more uniform and looks better.\
-![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback1.png)
+![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback7.png)
 
 ## Person 2 Feedback
 
