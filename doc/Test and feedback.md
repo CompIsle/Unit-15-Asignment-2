@@ -137,29 +137,33 @@ Test 3:\
 Outcome: Passed\
 Description: The websites are relevant and beneficial for aspiring web developers.
 
-## User Feedback
+# User Feedback
 Feeback received on the website
 
-### Person 1
+## Person 1 Feedback
+I recived Feeback from charlie about a multitude of things and becasue of his ideas/feeback i made some changes.\
+![Image of Charlies Feedback](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback4.png)
 
-### Person 2
+### Response To Person 1 Feedback
+The first change i made was adding padding to the the requirments on the jons page like charlie suggested.\
+![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback1.png)\
+The second change i made was was also like charlie suggested and i used an online background removing tool to remove the checkerboard background.\
+![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback1.png)\
+The Third and final change i made was to chnage the colors of our staff section so that it is more uniform and looks better.\
+![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback1.png)
 
-### Chat Gpt
+## Person 2 Feedback
+
+### Response To Person 2 Feedback
+
+## Chat Gpt Feedback
 I was curious so i decided to ask chat gpt to give me feeback for the design of the website.\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback1.png)\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback2.png)
 
-
-## Response to Feedback
-Changes made due to feedback
-
-### Person 1
-
-### Person 2
-
-### Chat Gpt
+### Response to Chat Gpt's Feedback
 I added a Navbar with a active coloring so that the page you are on is a diffrent color.
-![Image of Change](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback3.png)
+![Image of Change due to chat gpt](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback3.png)
 
 
 
