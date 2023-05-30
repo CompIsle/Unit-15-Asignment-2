@@ -18,3 +18,5 @@ Throughout the project, my skills, performance, and behaviours played a crucial 
 I effectively applied my knowledge of web design principles and coding languages to create a functional and visually appealing website.
 
 ## Conclusion
+In Conclusion overall the website was successfully designed and implemented according to the company’s requirements.
+There were a few issues that went against the company’s requirements, but they have been solved. So in the end the website meets the clients/company’s requirements and I believe it is visually appealing and will attract the attention of possible junior web devlopers that want to join the company.
