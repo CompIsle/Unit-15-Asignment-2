@@ -42,13 +42,13 @@ The Contact page will only contain contact infomation and address information fo
 Colours and text style are not accurate. For more details see further down the document in the Colour schemes/Typography/Navigation section.
 
 About Us page:\
-![Image of About us page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign1.png)
+![Image of About us page](ScreenShots/ScreenShotOfDesign1.png)
 
 Jobs Page:\
-![Image of a page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign2.png)
+![Image of a page](ScreenShots/ScreenShotOfDesign2.png)
 
 Contact page:\
-![Image of a page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign3.png)
+![Image of a page](ScreenShots/ScreenShotOfDesign3.png)
 
 ### Colour schemes/Typography/Navigation
 Colour Scheme:\
@@ -72,13 +72,13 @@ It gives you the opportunity to experiment and find the best combination that al
 I picked the First design instead of this alternative design because overall I preferred it aesthetics and design compared to the alterntive design. Overall I believe that the design I picked was better and would work better as the company’s new section to their website.
 
 About Us page:\
-![Image of a page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign4.png)
+![Image of a page](ScreenShots/ScreenShotOfDesign4.png)
 
 Job page:\
-![Image of a page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign5.png)
+![Image of a page](ScreenShots/ScreenShotOfDesign5.png)
 
 Contact page:\
-![Image of a page](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfDesign6.png)
+![Image of a page](ScreenShotOfDesign6.png)
 
 ## Design justification
 The design decisions made for the website aim to meet user needs and create a design that is fit for its purpose. 
