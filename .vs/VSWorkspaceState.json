@@ -3,7 +3,10 @@
     "",
     "\\doc",
     "\\Website",
+    "\\Website\\Images",
+    "\\Website\\Images\\AwardImages",
     "\\Website\\Pages"
   ],
+  "SelectedNode": "\\Website\\Pages\\AvailableJobs.html",
   "PreviewInSolutionExplorer": false
 }

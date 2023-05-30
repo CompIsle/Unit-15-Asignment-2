@@ -13,7 +13,7 @@ Computer:\
 Software used on the test device was windows 10 education edition. Version 22H2
 
 ### Browsers
-Browsers used in the test were Edge, Chrome and firefox.
+Browsers used in the test were Edge, Chrome and Firefox.
 
 
 ## Test Plan
@@ -61,23 +61,23 @@ In this section it will display the test Results and any faults discovered will 
 ### Company Profile:
 Test 1:\
 Outcome: Passed.\
-Description: I Checked the Company profile for Hot Beans Web and its passed this test becasue it accurately represents Hot Beans Web as a company.
+Description: I Checked the Company profile for Hot Beans Web and its passed this test because it accurately represents Hot Beans Web as a company.
 
 Test 2:\
 Initial Outcome: Failed.\
-Description: During this test i found some grammatical and spelling mistakes.\
+Description: During this test I found some grammatical and spelling mistakes.\
 Final Outcome: passed.\
-Description: Fixed all the spelling and grammatical erros found.
+Description: Fixed all the spelling and grammatical errors  found.
 
 Test 3:\
 Outcome: Passed.\
-Description: This test was also passed as the profile is visually apealling and consitent with the rest of the website.
+Description: This test was also passed as the profile is visually appealing and consistent with the rest of the website.
 
 ### Trainee Web Developer Profiles:
 Test 1:\
 Initial Outcome: Failed\
-Description: The trainee web developer profiles do not include the required content said in the brief. My profiles are for existing staff,such as the Head of Design, which is not what the breif wanted. It wanted profiles of junior web developers\
-ScreenShot:\
+Description: The trainee web developer profiles do not include the required content said in the brief. My profiles are for existing staff, such as the Head of Design, which is not what the brief wanted. It wanted profiles of junior web developers\
+Screenshot:\
 
 ![Image of old Our Staff with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfOurStaff1.png)\
 
@@ -90,20 +90,20 @@ Description: When Fixing the issue for test 1 I ensured that all information tha
 
 Test 3:\
 Outcome: Passed\
-Description: The Our staff section is visually apealing and well-organised.
+Description: The Our staff section is visually appealing and well-organised.
 
 ### Specifications and Required Qualifications:
 Test 1:\
 Outcome: Passed\
-Description: This section clearly outline whats the roles and responsibility of a junior web developer are.
+Description: This section clearly outline what the roles and responsibility of a junior web developer are.
 
 Test 2:\
-Inital Outcome: Failed\
-Description: Most of the required qualfications/skills for the junior web devloper job are ok but a few are not. For example the old requirments said that you are required to have 2 years experinece of being a junior web developer before you can become a junior web developer.\
-ScreenShot:\
-![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfJobRequirments1.png)\
+Initial Outcome: Failed\
+Description: Most of the required qualifications/skills for the junior web developer job are ok but a few are not. For example, the old requirements said that you are required to have 2 years of experience of being a junior web developer before you can become a junior web developer.\
+Screenshot:\
+![Image of old Job Requirements with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfJobRequirments1.png)\
 Final Outcome: Passed.\
-Description: I fixed this error and corrected the Requirments.
+Description: I fixed this error and corrected the requirements.
 
 Test 3:\
 Outcome: Passed\
@@ -112,17 +112,17 @@ Description: The job specification are neatly laid out and easy to read and unde
 ### Online Application Form:
 Test 1:\
 Outcome: Passed\
-Description: Users can input thier data correctly
+Description: Users can input their data correctly
 
 Test 2:\
 Outcome: Passed\
-Description: Data is validated so that it ensures that you are required to fill in every box but not further than that. So althought it is slightly validated it could be more validated, to ensure that the correct anwser is given.
+Description: Data is validated so that it ensures that you are required to fill in every box with the correct data type.
 
 Test 3:\
 Outcome: Passed\
-Description: When sumbitted the application takes the user to a new page confirmg that they have submitted their aplication.\
-ScreenShot:\
-![Image of old Job Requirments with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfSucsessfulSubmittion1.png)
+Description: When submitted the application takes the user to a new page confirming that they have submitted their application.\
+Screenshot:\
+![Image of old Job Requirements with mistake](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfSucsessfulSubmittion1.png)
 
 ### Links to Web Development Courses:
 Test 1:\
@@ -131,59 +131,36 @@ Description: Each link leads to the correct website.
 
 Test 2:\
 Outcome: Passed\
-Description: The links work and have been tested on Edge,Chrome and Firefox.
+Description: The links work and have been tested on Edge, Chrome and Firefox.
 
 Test 3:\
 Outcome: Passed\
 Description: The websites are relevant and beneficial for aspiring web developers.
 
 # User Feedback
-Feeback received on the website
+Feedback received on the website
 
 ## Person 1 Feedback
-I recived Feeback from charlie about a multitude of things and becasue of his ideas/feeback i made some changes.\
+I received feedback from Charlie about a multitude of things and because of his ideas/feedback I made some changes.\
 ![Image of Charlies Feedback](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback4.png)
 
 ### Response To Person 1 Feedback
-The first change i made was adding padding to the the requirements on the jobs page like charlie suggested.\
+The first change I made was adding padding to the requirements section on the jobs page, like Charlie suggested.\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback5.png)\
-The second change i made was was also like charlie suggested and i used an online background removing tool to remove the checkerboard background.\
+The second change I made was was also like charlie suggested and I used an online background removing tool to remove the checkerboard background on the images in the awards section on the about us page.\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback6.png)\
-The Third and final change i made was to chnage the colors of our staff section so that it is more uniform and looks better.\
+The Third and final change I made was to change the colours  of our staff section so that it is more uniform and looks better.\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback7.png)
 
-<!--## Person 2 Feedback
-
-### Response To Person 2 Feedback-->
-
-## Chat Gpt Feedback
-I was curious so i decided to ask chat gpt to give me feeback for the design of the website.\
+## ChatGPT Feedback
+I decided to ask ChatGPT to give me feedback for the design of the website.\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback1.png)\
 ![Image of Chat Gpt response](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback2.png)
 
-### Response to Chat Gpt's Feedback
-I added a Navbar with a active coloring so that the page you are on is a diffrent color.
+### Response to Chat ChatGPT's Feedback
+I added a Navbar with a active colouring so that the page you are on is a different colour.
 ![Image of Change due to chat gpt](https://github.com/devonwyatt/Unit-15-Asignment-2/blob/main/doc/ScreenShots/ScreenShotOfFeedback3.png)
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--Test Types
-Functional Testing: Validate the functionality and accuracy of the website's features, such as the online application form and external links.
-Usability Testing: Evaluate the user experience, ease of navigation, and clarity of information.
-Compatibility Testing: Verify the compatibility of the website across different browsers and devices commonly used by the target audience.
-Content Testing: Review the accuracy, completeness, and readability of the website's content.-->
